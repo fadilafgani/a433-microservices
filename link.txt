@@ -1,0 +1,8 @@
+Repository GitHub:
+https://github.com/fadilafgani/a433-microservices
+
+Repository Docker Hub:
+https://hub.docker.com/r/afgani73/item-app
+
+Docker image:
+afgani73/item-app:latest
